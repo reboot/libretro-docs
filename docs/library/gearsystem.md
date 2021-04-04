@@ -60,7 +60,7 @@ Frontend-level settings or features that the Gearsystem core respects.
 | Core Options      | ✔         |
 | RetroAchievements | ✔         |
 | RetroArch Cheats - Game Genie  | ✔         |
-| RetroArch Cheats - Pro Acion Replay | ✔         |
+| RetroArch Cheats - Pro Action Replay | ✔         |
 | Native Cheats     | ✕         |
 | Controls          | ✔         |
 | Remapping         | ✔         |
